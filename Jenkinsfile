@@ -7,7 +7,7 @@ pipeline{
   stages{
 	stage('demo'){
 	steps {
-	hello'Kloud9'
+	hello'9'
         }
             }
     }
